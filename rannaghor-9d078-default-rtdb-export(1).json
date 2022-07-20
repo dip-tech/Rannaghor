@@ -1,0 +1,741 @@
+{
+  "brands": {
+    "B1": {
+      "brand_IMG": "dominos.png",
+      "brand_NAME": "Domino`s",
+      "is_NEAR": 0,
+      "is_TOP": 1,
+      "tags": "Pizza, Fast Food, Beverages, Desserts"
+    },
+    "B2": {
+      "brand_IMG": "pizzahut.png",
+      "brand_NAME": "Pizza Hutt",
+      "is_NEAR": 1,
+      "is_TOP": 1,
+      "tags": "Pizza, Fast Food, Desserts, Beverages"
+    },
+    "B3": {
+      "brand_IMG": "kfc.png",
+      "brand_NAME": "KFC",
+      "is_NEAR": 0,
+      "is_TOP": 1,
+      "tags": "Burger, Fast Food, Biryani, Desserts, Beverages"
+    },
+    "B4": {
+      "brand_IMG": "wowmomo.png",
+      "brand_NAME": "Wow Momo",
+      "is_NEAR": 0,
+      "is_TOP": 1,
+      "tags": "Momos, Fast Food, Tibetan"
+    },
+    "B5": {
+      "brand_IMG": "mcdonalds.png",
+      "brand_NAME": "Mcdonalds",
+      "is_NEAR": 0,
+      "is_TOP": 1,
+      "tags": "Coffee, Beverages, Burger, Fast Food"
+    },
+    "B6": {
+      "brand_IMG": "mioamore.png",
+      "brand_NAME": "Mio Amore",
+      "is_NEAR": 1,
+      "is_TOP": 1,
+      "tags": "Bakery, Desserts, Fast Food"
+    },
+    "B7": {
+      "brand_IMG": "buskinrobbins.png",
+      "brand_NAME": "Baskin Robbins",
+      "is_NEAR": 0,
+      "is_TOP": 1,
+      "tags": "Ice Cream, Desserts, Beverages, Shake"
+    }
+  },
+  "item_categories": {
+    "C1": {
+      "item_IMG": "pizza.png",
+      "item_NAME": "Pizza"
+    },
+    "C10": {
+      "item_IMG": "ice_cream.png",
+      "item_NAME": "Ice Cream"
+    },
+    "C11": {
+      "item_IMG": "dosha.png",
+      "item_NAME": "Dosa"
+    },
+    "C12": {
+      "item_IMG": "cake.png",
+      "item_NAME": "Cake"
+    },
+    "C2": {
+      "item_IMG": "pasta.png",
+      "item_NAME": "Pasta"
+    },
+    "C3": {
+      "item_IMG": "burger.png",
+      "item_NAME": "Burger"
+    },
+    "C4": {
+      "item_IMG": "thalis.png",
+      "item_NAME": "Thalis"
+    },
+    "C5": {
+      "item_IMG": "noodels.png",
+      "item_NAME": "Noodle"
+    },
+    "C6": {
+      "item_IMG": "momos.png",
+      "item_NAME": "Momos"
+    },
+    "C7": {
+      "item_IMG": "chat.png",
+      "item_NAME": "Chaat"
+    },
+    "C8": {
+      "item_IMG": "biryani.png",
+      "item_NAME": "Biryani"
+    },
+    "C9": {
+      "item_IMG": "sweets.png",
+      "item_NAME": "Sweets"
+    }
+  },
+  "items": {
+    "I1": {
+      "item_BRAND": "B1",
+      "item_CATEGORY": "C1",
+      "item_DESC": "Cheese lovers paradise, loaded with mozzarella, cheddar & gouda cheese",
+      "item_IMG": "pizza.png",
+      "item_NAME": "Cheesy Pizza",
+      "item_PRICE": 299,
+      "item_RESTAURANT": "",
+      "item_TAGS": "pizza"
+    },
+    "I10": {
+      "item_BRAND": "B5",
+      "item_CATEGORY": "C3",
+      "item_DESC": "Crispy seasoned chicken, topped with a mandatory slice of melted cheese and piled onto soft rolls with onion, avocado, lettuce, tomato and garlic mayo.",
+      "item_IMG": "Chicken_Burger.png",
+      "item_NAME": "Chicken Burger",
+      "item_PRICE": 299,
+      "item_RESTAURANT": "",
+      "item_TAGS": "burger,chicken burger,non-veg burger"
+    },
+    "I11": {
+      "item_BRAND": "B5",
+      "item_CATEGORY": "C3",
+      "item_DESC": "",
+      "item_IMG": "Veggie_Burger.png",
+      "item_NAME": "Veggie Burger",
+      "item_PRICE": 55,
+      "item_RESTAURANT": "Our best-selling burger with crispy veg patty, fresh onion and our signature sauce.",
+      "item_TAGS": "burger,veg burger"
+    },
+    "I12": {
+      "item_BRAND": "B4",
+      "item_CATEGORY": "C6",
+      "item_DESC": "The Juicy, Tender Chicken and Spices are sure to leave you drooling!Whip up some Chilli Chutney to enhance the flavour of these Momos.",
+      "item_IMG": "Chicken_Steamed_Momo.png",
+      "item_NAME": "Chicken Steamed Momo",
+      "item_PRICE": 130,
+      "item_RESTAURANT": "",
+      "item_TAGS": "momo,steamed momo,chicken momo"
+    },
+    "I13": {
+      "item_BRAND": "B4",
+      "item_CATEGORY": "C6",
+      "item_DESC": "Filled with juicy chicken and shredded cheese and mixed with the flavours of Indian masala. To make it crispy dipped in hot oil and served with red and green sauce.",
+      "item_IMG": "Chicken_Fried_Momo.png",
+      "item_NAME": "Chicken Fried Momo",
+      "item_PRICE": 189,
+      "item_RESTAURANT": "",
+      "item_TAGS": "momo,fried momo,chicken momo"
+    },
+    "I14": {
+      "item_BRAND": "B4",
+      "item_CATEGORY": "C6",
+      "item_DESC": "Hot & crispy fried chicken momo, tossed in sauce and garnished with coriander",
+      "item_IMG": "Chicken_Panfried_Momo.png",
+      "item_NAME": "Chicken Panfried Momo",
+      "item_PRICE": 169,
+      "item_RESTAURANT": "",
+      "item_TAGS": "momo,panfried momo,chicken momo"
+    },
+    "I15": {
+      "item_BRAND": "B4",
+      "item_CATEGORY": "C6",
+      "item_DESC": "Momo stuffed with mix of Soft Juicy boneless Chicken, Onion &Coriander cooked in blend of herbs and Tinch of Spices (5 Pcs). Served with Spicy Red Authentic Darjeeling Momo Sauce.",
+      "item_IMG": "Darjeeling_Momo.png",
+      "item_NAME": "Darjeeling Momo",
+      "item_PRICE": 105,
+      "item_RESTAURANT": "",
+      "item_TAGS": "momo,darjeeling,spicy momo,spicy steamed momo,chichen spicy momo"
+    },
+    "I16": {
+      "item_BRAND": "B4",
+      "item_CATEGORY": "C6",
+      "item_DESC": "Hot & crispy fresh paneer momo, tossed in sauce and garnished with coriander. (5 pcs)",
+      "item_IMG": "Paneer_Panfried_Momo.png",
+      "item_NAME": "Paneer Panfried Momo",
+      "item_PRICE": 159,
+      "item_RESTAURANT": "",
+      "item_TAGS": "momo,panfried momo,paneer momo,panfried"
+    },
+    "I17": {
+      "item_BRAND": "B4",
+      "item_CATEGORY": "C6",
+      "item_DESC": "Crunchy Momo filled with Brownie, topped with Chocolate Fudge & Garnished with Chocolate flakes. (01 Piece)",
+      "item_IMG": "Chocolate_Momo.png",
+      "item_NAME": "Chocolate Momo",
+      "item_PRICE": 55,
+      "item_RESTAURANT": "",
+      "item_TAGS": "momo,chocolate momo,chocolate"
+    },
+    "I18": {
+      "item_BRAND": "B7",
+      "item_CATEGORY": "C10",
+      "item_DESC": "Sublime Strawberry ice cream with real strawberry pieces. This Strawberry ice cream is a childhood favourite. Scrap that actually, its an all time favourite! (Contains Milk)",
+      "item_IMG": "Very_Berry_Strawberry.png",
+      "item_NAME": "Very Berry Strawberry",
+      "item_PRICE": 149,
+      "item_RESTAURANT": "",
+      "item_TAGS": "icecream,strawberry,berry"
+    },
+    "I19": {
+      "item_BRAND": "B7",
+      "item_CATEGORY": "C10",
+      "item_DESC": "With a butterscotch base, this ice cream has cashew crunch along with an enticing butterscotch ribbon. Stop drooling, start clicking! Our Butterscotch ice cream is calling out to you! (Contains milk & tree nuts",
+      "item_IMG": "Hop_Scotch_Butterscotch.png",
+      "item_NAME": "Hop Scotch Butterscotch",
+      "item_PRICE": 169,
+      "item_RESTAURANT": "",
+      "item_TAGS": "icecream,butterscotch icecream,butterscotch"
+    },
+    "I2": {
+      "item_BRAND": "B1",
+      "item_CATEGORY": "C1",
+      "item_DESC": "",
+      "item_IMG": "pizza.png",
+      "item_NAME": "Chicken Laziz Pizza",
+      "item_PRICE": 349,
+      "item_RESTAURANT": "",
+      "item_TAGS": "chicken pizza, laziz pizza"
+    },
+    "I20": {
+      "item_BRAND": "B7",
+      "item_CATEGORY": "C10",
+      "item_DESC": "Rich chocolate based ice cream adorned with chocolate pieces and cashew nut crispies. If it?s Bavarian Chocolate flavour then it has got to be sinful and intensely indulgent. Throw in a bit of crunch and you?ve got a truly divine chocolate ice cream treat.",
+      "item_IMG": "Chocolate_Bavarian.png",
+      "item_NAME": "Bavarian Chocolate",
+      "item_PRICE": 199,
+      "item_RESTAURANT": "",
+      "item_TAGS": "icecream,chocolate icecream,bavarian,chocolate"
+    },
+    "I21": {
+      "item_BRAND": "B6",
+      "item_CATEGORY": "C9",
+      "item_DESC": "Kaju means cashew; barfi is often made by thickening milk with sugar and other ingredients (such as dry fruits and mild spices).",
+      "item_IMG": "Kaju_Burfi.jpg",
+      "item_NAME": "Kaju Burfi",
+      "item_PRICE": 15,
+      "item_RESTAURANT": "",
+      "item_TAGS": "sweets,kaju burfi,barfi,kaju katli,kaju"
+    },
+    "I22": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C9",
+      "item_DESC": "Soan Papdi is  usually cube-shaped or served as flakes, and has a crisp and flaky texture.",
+      "item_IMG": "Soan_Papdi.jpg",
+      "item_NAME": "Soan Papdi",
+      "item_PRICE": 299,
+      "item_RESTAURANT": "R7",
+      "item_TAGS": "sweets,soan papdi,soan"
+    },
+    "I23": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C9",
+      "item_DESC": "Besan Laddoo are aromatic and delicious North-Indian sweet balls made with gram flour,ghee,powdered sugar and cardamoms.",
+      "item_IMG": "Besan_Laddu.jpg",
+      "item_NAME": "Besan Laddu",
+      "item_PRICE": 209,
+      "item_RESTAURANT": "R7",
+      "item_TAGS": "sweets,laddu,besan laddu"
+    },
+    "I24": {
+      "item_BRAND": "B6",
+      "item_CATEGORY": "C12",
+      "item_DESC": "Red velvet cake layered with cheese cream, cheese powder, dairy cream & milk solid stands for the very flavor of happiness *serves upto 6 persons (standard portion",
+      "item_IMG": "Red_Velvet.png",
+      "item_NAME": "Red Velvet(eggless)",
+      "item_PRICE": 365,
+      "item_RESTAURANT": "",
+      "item_TAGS": "cake,red velvet cake"
+    },
+    "I25": {
+      "item_BRAND": "B6",
+      "item_CATEGORY": "C12",
+      "item_DESC": "Black forest and white forest combo with fresh cream & cherries inside chocolate sponge.",
+      "item_IMG": "Dual_Forest.png",
+      "item_NAME": "Dual Forest",
+      "item_PRICE": 800,
+      "item_RESTAURANT": "",
+      "item_TAGS": "cake,chocolate vanila cake,chocolate cake,vanila cake,chocolate"
+    },
+    "I26": {
+      "item_BRAND": "B6",
+      "item_CATEGORY": "C12",
+      "item_DESC": "Beautiful and elegant, this one is for those who believe that a chocolate cake is a thing of beauty and deserves respect! *serves upto 5 persons (standard portion)",
+      "item_IMG": "Rich_Dutch_Chocolate.png",
+      "item_NAME": "Rich Dutch Chocolate",
+      "item_PRICE": 230,
+      "item_RESTAURANT": "",
+      "item_TAGS": "cake,chocolate cake,dutch cake,chocolate"
+    },
+    "I27": {
+      "item_BRAND": "B6",
+      "item_CATEGORY": "C12",
+      "item_DESC": "Add wings to your chocolate dreams with this chocolate sponge cake filled with buttercream, cocoa powder, chocolate ganache & truffle. serves upto 8 persons (standard portion)",
+      "item_IMG": "Choco_Feather.png",
+      "item_NAME": "Choco Feather",
+      "item_PRICE": 295,
+      "item_RESTAURANT": "",
+      "item_TAGS": "cake,chocolate cake,choco cake,chocolate"
+    },
+    "I28": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C5",
+      "item_DESC": "Fresh noodles tossed with crispy chicken, carrot, cabbage, green capsicum, beans sprouts, spring onions.",
+      "item_IMG": "Chicken_Tossed_Hakka_Noodles.png",
+      "item_NAME": "Chiken Tossed Hakka Noodles",
+      "item_PRICE": 445,
+      "item_RESTAURANT": "R12",
+      "item_TAGS": "noodles,hakka noddles,chicken noodles"
+    },
+    "I29": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C5",
+      "item_DESC": "Fresh Hong-Kong noodles is panfried with eggs, chicken, prawn, carrot, cabbage, green capsicum, bean sprouts, spring onions and served with spicy chilli garlic sauce.",
+      "item_IMG": "Mixed_Panfried_Noodles_with_Chilli_Garlic_Sauce.png",
+      "item_NAME": "Mixed Panfried Noodles with Chilli Garlic Sauce",
+      "item_PRICE": 555,
+      "item_RESTAURANT": "R12",
+      "item_TAGS": "noodles,chicken noodles,prawn noodles,mixed noodles,chilli garlic,panfried noodles"
+    },
+    "I3": {
+      "item_BRAND": "B2",
+      "item_CATEGORY": "C1",
+      "item_DESC": "",
+      "item_IMG": "pizza.png",
+      "item_NAME": "Chicken Margherita Cheese Pizza",
+      "item_PRICE": 349,
+      "item_RESTAURANT": "",
+      "item_TAGS": "pizza,cheese pizza,margherita pizza"
+    },
+    "I30": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C5",
+      "item_DESC": "Chicken stir fried with Singapore style rice noodles with lot of veggies,oyster sauce,choy sum and topped with pickled chilli and celery.",
+      "item_IMG": "Chicken_Singapore_Rice_Noodles.png",
+      "item_NAME": "Chiken Singapore Rice Noodles",
+      "item_PRICE": 455,
+      "item_RESTAURANT": "R12",
+      "item_TAGS": "noodles,rice noodles,chicken noodles,singapore noodles"
+    },
+    "I31": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C5",
+      "item_DESC": "Chilli garlic noodles recipe is a bit on spicier side. but it would pleasantly surprise you with its sweet taste as well.",
+      "item_IMG": "Chilli_Garlic_Noodles.png",
+      "item_NAME": "Chilli Garlic Noodles",
+      "item_PRICE": 415,
+      "item_RESTAURANT": "R12",
+      "item_TAGS": "noodles,chilli garlic"
+    },
+    "I32": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "Fragrant rice and one peice of soft chicken get together in this classic biryani dish. Contains a delicious peice of potato!",
+      "item_IMG": "Chicken_Biryani(One peic)e.png",
+      "item_NAME": "Chicken Biryani(One peice)",
+      "item_PRICE": 165,
+      "item_RESTAURANT": "R2",
+      "item_TAGS": "biryani,chicken biryani"
+    },
+    "I33": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "Fragrant rice with egg and two peices of soft chicken get together in this classic biryani dish. Contains a delicious peice of potato!",
+      "item_IMG": "Aminia_Special_Chicken_Biryani(Two Peices).png",
+      "item_NAME": "Aminia Special Chicken Biryani(Two Peices)",
+      "item_PRICE": 255,
+      "item_RESTAURANT": "R2",
+      "item_TAGS": "biryani,chicken biryani,aminia special"
+    },
+    "I34": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "Fragrant rice and one peice of soft mutton get together in this classic biryani dish. Contains a delicious peice of potato!",
+      "item_IMG": "Mutton_Biryani(One peice).png",
+      "item_NAME": "Mutton Biryani(One peice)",
+      "item_PRICE": 165,
+      "item_RESTAURANT": "R2",
+      "item_TAGS": "biryani,mutton biryani"
+    },
+    "I35": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "Fragrant rice with egg and two peices of soft mutton get together in this classic biryani dish. Contains a delicious peice of potato!",
+      "item_IMG": "Aminia_Special_Mutton_Biryani(Two Peices).png",
+      "item_NAME": "Aminia Special Mutton Biryani(Two Peices)",
+      "item_PRICE": 255,
+      "item_RESTAURANT": "R2",
+      "item_TAGS": "biryani,mutton biryani,aminia special"
+    },
+    "I36": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "",
+      "item_IMG": "Choco_Feather.png",
+      "item_NAME": "Mutton Hyderabadi Biryani(Two Peices)",
+      "item_PRICE": 185,
+      "item_RESTAURANT": "R2",
+      "item_TAGS": "biryani,hyderabadi biryani,mutton biryani"
+    },
+    "I37": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "Fragrant rice with  two peices of egg get together in this classic biryani dish. Contains a delicious peice of potato!",
+      "item_IMG": "Egg_Biryani(Two Peices).png",
+      "item_NAME": "Egg Biryani(Two Peices)",
+      "item_PRICE": 110,
+      "item_RESTAURANT": "R2",
+      "item_TAGS": "biryani,egg biryani"
+    },
+    "I38": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "Made by layering marinated mutton and then layered with parboiled rice, herbs, saffron and ghee. [2 Pieces Mutton, Potato [1 Piece], Egg [1] and extra rice]",
+      "item_IMG": "Arsalan_Special_Mutton_Biryani(Two Peices).png",
+      "item_NAME": "Arsalan Special Mutton Biryani(Two Peices)",
+      "item_PRICE": 450,
+      "item_RESTAURANT": "R5",
+      "item_TAGS": "biryani,mutton biryani,arsalan special"
+    },
+    "I39": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "Saffron streaked Indian basmati rice cooked with fresh herbs and spices with chicken legpeice.",
+      "item_IMG": "Hyderabadi_Biryani.png",
+      "item_NAME": "Hyderabadi Biryani",
+      "item_PRICE": 190,
+      "item_RESTAURANT": "R5",
+      "item_TAGS": "biryani,hyderabadi biryani,chicken biryani"
+    },
+    "I4": {
+      "item_BRAND": "B2",
+      "item_CATEGORY": "C1",
+      "item_DESC": "",
+      "item_IMG": "pizza.png",
+      "item_NAME": "Chicken Laziz Pizza",
+      "item_PRICE": 459,
+      "item_RESTAURANT": "R7",
+      "item_TAGS": "pizza"
+    },
+    "I40": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "Flavourful rice and soft mutton get together in this classic Calcutta Biryani dish. [2 Pieces Mutton, Egg [1]]",
+      "item_IMG": "Mutton_Lucknowi_Biryani.png",
+      "item_NAME": "Mutton Lucknowi Biryani",
+      "item_PRICE": 290,
+      "item_RESTAURANT": "R5",
+      "item_TAGS": "biryani,mutton biryani,lucknowi biryani"
+    },
+    "I41": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "Made by layering marinated chicken and then layered with parboiled rice, herbs, saffron and ghee. [2 Pieces Chicken, Potato [1 Piece], Egg [1] and extra rice]",
+      "item_IMG": "Arsalan_Special_Chicken_Biryani(Two Peices).png",
+      "item_NAME": "Arsalan Special Chicken Biryani(Two Peices)",
+      "item_PRICE": 450,
+      "item_RESTAURANT": "R5",
+      "item_TAGS": "biryani,chicken biryani,arsalan special"
+    },
+    "I42": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "Inspired by legendary Awadhi lineage, Aminia chicken biryani serves savory rice loaded with spicy chicken and flavorful saffron rice.",
+      "item_IMG": "Arsalan_Biryani.png",
+      "item_NAME": "Arsalan Biryani",
+      "item_PRICE": 190,
+      "item_RESTAURANT": "R5",
+      "item_TAGS": "biryani,arsalan,chicken biryani"
+    },
+    "I43": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "'Dum Pukht' method of cooking rice with mutton pieces imparting a typical Awadhi flavour. served in earthen pot.",
+      "item_IMG": "Gosht_Awadhi_Handi_Biryani.png",
+      "item_NAME": "Gosht Awadhi Handi Biryani",
+      "item_PRICE": 425,
+      "item_RESTAURANT": "R9",
+      "item_TAGS": "biryani,mutton biryani,awadhi biryani,handi biryani,mutton handi biryani"
+    },
+    "I44": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "'Dum Pukht' method of cooking rice with chicken pieces imparting a typical Awadhi flavour. served in earthen pot.",
+      "item_IMG": "Murgh_Awadhi_Handi_Biryani.png",
+      "item_NAME": "Murgh Awadhi Handi Biryani",
+      "item_PRICE": 395,
+      "item_RESTAURANT": "R9",
+      "item_TAGS": "biryani,chicken biryani,awadhi biryani,handi biryani,chicken handi biryani"
+    },
+    "I45": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "Shredded pieces of Mutton from leg and rice prepared in 'Dum Pukht' style, a true royal Awadhi delicacy served in earthen pot.",
+      "item_IMG": "Raan_Biryani.png",
+      "item_NAME": "Raan Biryani",
+      "item_PRICE": 480,
+      "item_RESTAURANT": "R9",
+      "item_TAGS": "biriyani,raan,mutton biriyani"
+    },
+    "I46": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "'Dum Pukht' method of cooking rice with fresh river prawns.",
+      "item_IMG": "Jhinga_Biryani.png",
+      "item_NAME": "Jhinga Biryani",
+      "item_PRICE": 395,
+      "item_RESTAURANT": "R9",
+      "item_TAGS": "biriyani,prawn biriyani,jhinga biriyani"
+    },
+    "I47": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "Chicken layered with house special spices cooked in 'Dum Pukht' style, most delectable Awadhi delicacy.",
+      "item_IMG": "Murgh_Pardah_Biryani.png",
+      "item_NAME": "Murgh Pardah Biryani",
+      "item_PRICE": 425,
+      "item_RESTAURANT": "R9",
+      "item_TAGS": "biriyani,pardah biriyani,chicken biriyani,murgh biriyani"
+    },
+    "I48": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "'Dum Pukht' method of cooking rice with minced chicken balls imparting a typical Awadhi flavour.",
+      "item_IMG": "Murgh_Kofta_Biryani.png",
+      "item_NAME": "Murgh Kofta Biryani",
+      "item_PRICE": 390,
+      "item_RESTAURANT": "R9",
+      "item_TAGS": "biriyani,Chicken biriyani,Murgh biriyani"
+    },
+    "I49": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "'Dum Pukht' method of cooking rice with minced mutton balls imparting a typical Awadhi flavour",
+      "item_IMG": "Moti_Biryani.png",
+      "item_NAME": "Moti Biryani",
+      "item_PRICE": 390,
+      "item_RESTAURANT": "R9",
+      "item_TAGS": "biriyani,Mutton Biriyani,Moti Biriyani"
+    },
+    "I5": {
+      "item_BRAND": "B1",
+      "item_CATEGORY": "C1",
+      "item_DESC": "",
+      "item_IMG": "pizza.png",
+      "item_NAME": "Chicken Spicy Tango Pizza",
+      "item_PRICE": 349,
+      "item_RESTAURANT": "",
+      "item_TAGS": "pizza, spicy pizza"
+    },
+    "I50": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C8",
+      "item_DESC": "'Dum Pukht' method of cooking rice with mutton pieces and on all time favourite Kolkata speciality",
+      "item_IMG": "Gosht_Metiaburz_Biryani.png",
+      "item_NAME": "Gosht Metiaburz Biryani",
+      "item_PRICE": 370,
+      "item_RESTAURANT": "R9",
+      "item_TAGS": "Gosht biriyani,Mutton biriyani,Metiaburz Biriyani"
+    },
+    "I51": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C11",
+      "item_DESC": "Plain Dosa made crispy like paper thin crust, served with three coconut chutneys and sambhar.",
+      "item_IMG": "Plain_Dosa.png",
+      "item_NAME": "Plain Dosa",
+      "item_PRICE": 50,
+      "item_RESTAURANT": "R11",
+      "item_TAGS": "dosa,plain dosa"
+    },
+    "I52": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C11",
+      "item_DESC": "Masala Dosa cooked with Amul Ghee and stuffed with Amul Cheese served with aloo masala and three coconut chutneys and sambhar.",
+      "item_IMG": "Butter_Masala_Dosa.png",
+      "item_NAME": "Butter Masala Dosa",
+      "item_PRICE": 80,
+      "item_RESTAURANT": "R11",
+      "item_TAGS": "dosa,butter masala dosa,masala dosa"
+    },
+    "I53": {
+      "item_BRAND": "",
+      "item_CATEGORY": "C11",
+      "item_DESC": "Crisp and soft dosa spiced with red chutney and served with a potato filling, Served with chutney and sambhar",
+      "item_IMG": "Masala_Dosa.png",
+      "item_NAME": "Masala Dosa",
+      "item_PRICE": 70,
+      "item_RESTAURANT": "R11",
+      "item_TAGS": "dosa,masala dosa"
+    },
+    "I6": {
+      "item_BRAND": "B2",
+      "item_CATEGORY": "C1",
+      "item_DESC": "",
+      "item_IMG": "pizza.png",
+      "item_NAME": "Chicken Spicy Tango Pizza",
+      "item_PRICE": 349,
+      "item_RESTAURANT": "",
+      "item_TAGS": "pizza, spicy pizza"
+    },
+    "I7": {
+      "item_BRAND": "B2",
+      "item_CATEGORY": "C1",
+      "item_DESC": "",
+      "item_IMG": "pizza.png",
+      "item_NAME": "Cheesy Pizza",
+      "item_PRICE": 299,
+      "item_RESTAURANT": "",
+      "item_TAGS": "pizza"
+    },
+    "I8": {
+      "item_BRAND": "B3",
+      "item_CATEGORY": "C3",
+      "item_DESC": "Hamburger served with crunchy patties and layered with cheese,lettuce and tomato with chicken piece",
+      "item_IMG": "Chicken_Cheesy_Burger.png",
+      "item_NAME": "Chicken Cheesy Burger",
+      "item_PRICE": 299,
+      "item_RESTAURANT": "",
+      "item_TAGS": "burgerchicken burger,cheesy burger"
+    },
+    "I9": {
+      "item_BRAND": "B3",
+      "item_CATEGORY": "C3",
+      "item_DESC": "",
+      "item_IMG": "Veg_Burger.png",
+      "item_NAME": "Veg Burger",
+      "item_PRICE": 299,
+      "item_RESTAURANT": "Signature veg burger with crispy patties, veggies & a tangy sauce",
+      "item_TAGS": "burger,veg burger"
+    }
+  },
+  "restaurants": {
+    "R1": {
+      "is_NEAR": 0,
+      "is_TOP": 1,
+      "res_IMG": "barbeque_nation.png",
+      "res_NAME": "Barbeque Nation",
+      "res_TAGS": "buffet,veg,non-veg,kabab,noodles,biriyani,chicken,mutton,prawn,dessert"
+    },
+    "R10": {
+      "is_NEAR": 1,
+      "is_TOP": 0,
+      "res_IMG": "Sharma_Snacks.png",
+      "res_NAME": "Sharma Snacks",
+      "res_TAGS": "Snacks, Street food"
+    },
+    "R11": {
+      "is_NEAR": 1,
+      "is_TOP": 0,
+      "res_IMG": "Kela_Patta.png",
+      "res_NAME": "Kela Patta",
+      "res_TAGS": "South Indian,dosa"
+    },
+    "R12": {
+      "is_NEAR": 1,
+      "is_TOP": 0,
+      "res_IMG": "Mainland_China.png",
+      "res_NAME": "Mainland China",
+      "res_TAGS": "Noodles,Hakka noodles,chicken noodles,rice noodles,mixed noodles,chilli garlic"
+    },
+    "R2": {
+      "is_NEAR": 0,
+      "is_TOP": 1,
+      "res_IMG": "amenia.png",
+      "res_NAME": "Aminia",
+      "res_TAGS": "biriyani,chicken biriyani,mutton biriyani,egg biriyani,aminia Special"
+    },
+    "R3": {
+      "is_NEAR": 0,
+      "is_TOP": 1,
+      "res_IMG": "absolute_barbeque.png",
+      "res_NAME": "Absolute Barbeque ",
+      "res_TAGS": "buffet,veg,non-veg,kabab,noodles,biriyani,chicken,mutton,prawn,dessert"
+    },
+    "R4": {
+      "is_NEAR": 0,
+      "is_TOP": 1,
+      "res_IMG": "6_ballygunge_place.png",
+      "res_NAME": "6 Ballygunge Place",
+      "res_TAGS": ""
+    },
+    "R5": {
+      "is_NEAR": 0,
+      "is_TOP": 1,
+      "res_IMG": "arsalan.png",
+      "res_NAME": "Arsalan",
+      "res_TAGS": "biriyani,chicken biriyani,mutton biriyani,egg biriyani,arsalan special"
+    },
+    "R6": {
+      "is_NEAR": 0,
+      "is_TOP": 1,
+      "res_IMG": "koshe_kosha.png",
+      "res_NAME": "Koshe Kosha",
+      "res_TAGS": ""
+    },
+    "R7": {
+      "is_NEAR": 1,
+      "is_TOP": 1,
+      "res_IMG": "Haldiram.png",
+      "res_NAME": "Haldiram's",
+      "res_TAGS": "North Indian, South Indian, Street Food"
+    },
+    "R8": {
+      "is_NEAR": 1,
+      "is_TOP": 0,
+      "res_IMG": "Abhinandan.png",
+      "res_NAME": "Abhinandan",
+      "res_TAGS": "Street Food"
+    },
+    "R9": {
+      "is_NEAR": 1,
+      "is_TOP": 0,
+      "res_IMG": "Oudh_1590.png",
+      "res_NAME": "Oudh 1590",
+      "res_TAGS": "Biryani,murgh,gosht,jhinga,moti,kofta biriyani,jhinga,chicken biriyani,mutton biriyani,prawn biriyani"
+    }
+  },
+  "user_details": {
+    "CK4OaGpe2PRzU5PkUKACWfUiv2p1": {
+      "email": "dipankar8dutta@gmail.com",
+      "first_NAME": "Dipankar",
+      "last_NAME": "Dutta",
+      "phone": "7427901380"
+    },
+    "I7a8sQeykOb4oMDMKx6UAxrSz2a2": {
+      "email": "dipankar520dutta@hotmail.com",
+      "first_NAME": "Dip",
+      "last_NAME": "Dutta",
+      "phone": "7427901380"
+    },
+    "TrTOKMIDNWgBskMs5LniTmOXxG43": {
+      "email": "kumardip123@gmail.com",
+      "first_NAME": "Kumardip",
+      "last_NAME": "Saha",
+      "phone": "1234567890"
+    }
+  }
+}

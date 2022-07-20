@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp">
+
+    <!--               CARD VIEW FOR BACKGROUND IMAGE       -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv_view"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        app:cardCornerRadius="30dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/white">
+        <ImageView
+            android:id="@+id/iv_nearby_restaurant"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </androidx.cardview.widget.CardView>
+
+    <!--            CARD VIEW FOR RESTAURANT DETAILS         -->
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignBottom="@id/cv_view"
+        app:cardCornerRadius="20dp"
+        android:padding="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:outlineAmbientShadowColor="@color/black"
+        android:backgroundTint="@color/white">
+
+        <!--                   LINEAR LAYOUT 1              -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center">
+
+            <!--              LINEAR LAYOUT 2               -->
+            <LinearLayout
+                android:id="@+id/ll1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:layout_margin="5dp">
+
+                <!--          RESTAURANT NAME               -->
+                <TextView
+                    android:id="@+id/tv_res_nearby_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Nearby Restaurants"
+                    android:textSize="20dp"
+                    android:gravity="left"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_gravity="center"
+                    android:layout_weight="0.5"/>
+                <!--          RESTAURANT RATING             -->
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/rating"
+                    android:layout_weight="0.5"
+                    android:layout_gravity="center"/>
+            </LinearLayout>
+
+            <!--              RESTAURANT TAGS               -->
+            <TextView
+                android:id="@+id/tv_res_nearby_tags"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Street Food"
+                android:textColor="@android:color/darker_gray"
+                android:paddingLeft="5dp"
+                />
+        </LinearLayout>
+
+
+
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

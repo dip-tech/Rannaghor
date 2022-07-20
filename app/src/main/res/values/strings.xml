@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Rannaghor</string>
+    <string name="client_id">438062599052-23tp77e7evshf07qqgrm1m11b4bheu6a.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

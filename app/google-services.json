@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438062599052",
+    "project_id": "rannaghor-9d078",
+    "storage_bucket": "rannaghor-9d078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438062599052:android:b3d7feef407d16778124a9",
+        "android_client_info": {
+          "package_name": "com.example.rannaghor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438062599052-23tp77e7evshf07qqgrm1m11b4bheu6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1EifyRz-U6G2PAyVdzFqIB9B6LEMmdF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438062599052-23tp77e7evshf07qqgrm1m11b4bheu6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

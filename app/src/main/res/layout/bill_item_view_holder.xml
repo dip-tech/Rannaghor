@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_margin="5dp"
+    android:weightSum="1">
+    <TextView
+        android:id="@+id/tv_bill_item_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.2"
+        android:textSize="20dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:id="@+id/tv_bill_item_qty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.4"
+        android:textSize="20dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:id="@+id/tv_bill_item_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.4"
+        android:textSize="20dp"
+        android:textColor="@color/black"/>
+</LinearLayout>

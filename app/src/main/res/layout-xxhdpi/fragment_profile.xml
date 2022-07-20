@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--======================== LAYOUT FOR BACKGROUND ==============================================-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <!--==================== IMAGE VIEW FOR BURGER =======================-->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="318dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/profile_cover"/>
+    </LinearLayout>
+
+    <!--======================  CARD VIEW FOR PROFILE DETAILS BACKGROUND ===========-->
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="380dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/login_bg"
+        android:elevation="5dp"
+        android:backgroundTint="@color/white"
+        app:cardCornerRadius="20dp">
+        <!--======================== LAYOUT FOR PROFILE DETAILS ================-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Name"
+                android:paddingLeft="2dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="14dp" />
+
+            <EditText
+                android:id="@+id/et_user_name"
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:editable="false"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="16dp" />
+
+            <TextView
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Email ID"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                android:paddingLeft="2dp"
+                android:textColor="@color/black"/>
+
+            <EditText
+                android:id="@+id/et_user_email"
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:editable="false"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="16dp" />
+
+            <TextView
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Phone Number"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                android:paddingLeft="2dp"
+                android:textColor="@color/black"/>
+
+            <EditText
+                android:id="@+id/et_userphone"
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:editable="false"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/tv_add_address"
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:editable="false"
+                android:text="Add new address"
+                android:textAlignment="center"
+                android:textColor="@android:color/holo_blue_dark" />
+
+            <Button
+                android:id="@+id/btn_logout"
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_bg_blue"
+                android:text="Log out"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!--========================= CARD VIEW FOR PROFILE LOGO ====================-->
+    <androidx.cardview.widget.CardView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        app:cardCornerRadius="50dp"
+        android:layout_marginTop="140dp"
+        android:elevation="5dp"
+        android:backgroundTint="@color/white"
+        android:layout_centerHorizontal="true">
+        <ImageView
+            android:id="@+id/imv_user_photo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_baseline_account_circle_24"/>
+    </androidx.cardview.widget.CardView>
+
+
+
+</RelativeLayout>

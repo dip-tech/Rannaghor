@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DIP-TECH/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/button_bg.xml" value="0.1795" />
+        <entry key="..\:/Users/DIP-TECH/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/button_bg_blue.xml" value="0.1795" />
+        <entry key="..\:/Users/DIP-TECH/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_cart.xml" value="0.4" />
+        <entry key="..\:/Users/DIP-TECH/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_item_list.xml" value="0.34139784946236557" />
+        <entry key="..\:/Users/DIP-TECH/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_order.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DIP-TECH/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/cartitem_recycler_view_holder.xml" value="0.4" />
+        <entry key="..\:/Users/DIP-TECH/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/fragment_home.xml" value="0.3118279569892473" />
+        <entry key="..\:/Users/DIP-TECH/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/fragment_offline.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DIP_DESKTOP/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/searchbar_bg.xml" value="0.2" />
+        <entry key="..\:/Users/DIP_DESKTOP/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/activity_main.xml" value="0.3709677419354839" />
+        <entry key="..\:/Users/DIP_DESKTOP/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/fragment_home.xml" value="0.3709677419354839" />
+        <entry key="..\:/Users/DIP_DESKTOP/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Users/DIP_DESKTOP/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/fragment_search.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/DIP_DESKTOP/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/login_fragment.xml" value="0.3709677419354839" />
+        <entry key="..\:/Users/DIP_DESKTOP/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/fragment_home.xml" value="0.22402736212056434" />
+        <entry key="..\:/Users/DIP_DESKTOP/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_main.xml" value="0.39384920634920634" />
+        <entry key="..\:/Users/DIP_DESKTOP/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_restaurant_list_acivity.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/DIP_DESKTOP/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/brand_view_holder.xml" value="0.5" />
+        <entry key="..\:/Users/DIP_DESKTOP/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/fragment_home.xml" value="0.5476190476190477" />
+        <entry key="..\:/Users/DIP_DESKTOP/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/item_view_holder.xml" value="0.409375" />
+        <entry key="..\:/Users/DIP_DESKTOP/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/nearby_restaurant_viewholder.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/DIP_DESKTOP/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/restaruent_view_holder.xml" value="0.5" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/add_to_cart_button.xml" value="0.2335" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/black_bg.xml" value="0.23" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/button_bg_blue.xml" value="0.2335" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.312" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/ic_baseline_add.xml" value="0.242" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2215" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2335" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.1" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/ic_baseline_chevron_right_24.xml" value="0.2215" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.2215" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/ic_baseline_minimize_24.xml" value="0.242" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.242" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/ic_profile_icon.xml" value="0.312" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/ic_search_icon.xml" value="0.2215" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/login_bg.xml" value="0.312" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/drawable/searchbar_bg.xml" value="0.2215" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-ldpi/activity_login_and_registration.xml" value="1.6" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/activity_login_and_registration.xml" value="0.375" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/activity_onboarding_screen.xml" value="0.375" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/activity_splash_screen.xml" value="0.375" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/brand_view_holder.xml" value="0.409375" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/fragment_cart.xml" value="0.53359375" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/fragment_home.xml" value="0.5" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/fragment_profile.xml" value="0.53359375" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/item_recycler_view_holder.xml" value="0.6" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/login_fragment.xml" value="0.375" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/registration_fragment.xml" value="0.375" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/brand_view_holder.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_cart.xml" value="0.41360294117647056" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_item_list.xml" value="1.0" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_login_and_registration.xml" value="0.4" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_main.xml" value="0.409375" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_main2.xml" value="0.375" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_onboarding_screen.xml" value="0.409375" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_restaurant_list_acivity.xml" value="0.536" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/fragment_bottom_sheet_cart.xml" value="0.3625" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/fragment_cart.xml" value="0.7997658079625293" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/fragment_home.xml" value="0.536" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/fragment_profile.xml" value="0.409375" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/fragment_search.xml" value="0.38125" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/item_recycler_view_holder.xml" value="0.7719298245614035" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/item_view_holder.xml" value="0.3064516129032258" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/login_fragment.xml" value="0.409375" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/nearby_restaurant_viewholder.xml" value="0.536" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/onboarding_view_holder.xml" value="0.409375" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/registration_fragment.xml" value="0.536" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/restaruent_view_holder.xml" value="0.6" />
+        <entry key="..\:/Users/Dip/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/restaurent_list_view_holder.xml" value="0.371875" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-large/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-normal/activity_main.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/activity_cart.xml" value="0.18359375" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/activity_item_list.xml" value="0.4" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/activity_login_and_registration.xml" value="0.14285714285714285" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/activity_main.xml" value="0.18359375" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/activity_onboarding_screen.xml" value="0.3765625" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/fragment_home.xml" value="0.3765625" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/fragment_order_details.xml" value="0.536" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/fragment_profile.xml" value="0.3765625" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/item_recycler_view_holder.xml" value="0.27352150537634407" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/registration_fragment.xml" value="0.18828125" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xhdpi/restaurent_list_view_holder.xml" value="0.18359375" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/activity_cart.xml" value="0.264" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/activity_item_list.xml" value="0.264" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/activity_login_and_registration.xml" value="0.4" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/activity_onboarding_screen.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/activity_restaurant_list_acivity.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/brand_view_holder.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/fragment_order_details.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/item_recycler_view_holder.xml" value="0.4" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/onboarding_view_holder.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/registration_fragment.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxhdpi/restaurent_list_view_holder.xml" value="0.14285714285714285" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxxhdpi/activity_login_and_registration.xml" value="0.1" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxxhdpi/activity_main.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxxhdpi/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout-xxxhdpi/fragment_profile.xml" value="0.18828125" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_billing.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_login_and_registration.xml" value="1.0041666666666667" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_main.xml" value="0.5336021505376344" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/activity_order.xml" value="0.532258064516129" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/bill_item_view_holder.xml" value="0.264" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/fragment_cart.xml" value="0.5336021505376344" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/fragment_home.xml" value="1.0041666666666667" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/fragment_order_details.xml" value="0.5" />
+        <entry key="..\:/Users/dipan/AndroidStudioProjects/Rannaghor/app/src/main/res/layout/fragment_profile.xml" value="1.0041666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
